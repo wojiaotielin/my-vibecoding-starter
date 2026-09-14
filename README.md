@@ -1,4 +1,21 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+##Included包括
+- Next.js
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+- Base UI + Nova preset
+- UI/UX Pro Max
+- shadcn Agent Skill
+- Frontend Design Review
+- Preinstalled common UI components
+- ESLint validation
+- Production build validation
+- GitHub Template Repository workflow
+
+
+
+
 
 ## Getting Started
 
